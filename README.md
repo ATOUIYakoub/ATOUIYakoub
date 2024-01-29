@@ -16,9 +16,6 @@
 <p align="left">
 <a href="https://www.facebook.com/yakoub.qu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fares bek" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yakoub__atoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ATOUIYakoub" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/abderahman-yakoub-atoui-142517230" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin" alt="ATOUIYakoub" height="30" width="40" /></a>
-  <a href="atouiabderahmanyakoub" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Discord" alt="ATOUIYakoub" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter" alt="ATOUIYakoub" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
