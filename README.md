@@ -36,6 +36,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer"><img src="https://yourdomain.com/path/to/hostinger-logo.png" alt="Hostinger" width="40" height="40"/</a>
+
 
 </p>
 
