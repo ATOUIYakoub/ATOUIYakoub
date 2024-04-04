@@ -1,6 +1,20 @@
 
-<h1 align="center">Hi, I'm Yakoub</h1>
-<h3 align="center"> Backend developer </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Abderahman+Yakoub+ATOUI+.;I+am+a+Backend+Developer+.;and+my+interests+include+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" /></a>
+
+```python
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+
+@api_view(['POST'])
+def introduce_yourself(request):
+    name = request.data.get('name', 'Abderahman Yakoub ATOUI')
+    occupation = request.data.get('occupation', 'Backend Developer')
+    interests = request.data.get('interests', ['Python', 'Django', 'Rest Framework'])
+
+    introduction = f"Hello, my name is {name}. I am a {occupation} and my interests include {', '.join(interests)}."
+
+    return Response({'introduction': introduction})
+```
 
 
 
