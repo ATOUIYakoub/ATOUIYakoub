@@ -28,7 +28,7 @@ def introduce_yourself(request):
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ATOUIYakoub&label=Profile%20views&color=0e75b6&style=flat" alt="ATOUIYakoub" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/yakoub.qu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fares bek" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yakoub.qu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yakoub Atoui" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abderahman-yakoub-atoui-142517230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ATOUIYakoub" height="30" width="40" /></a>
 <a href="https://gitlab.com/ATOUIYakoub" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gitlab" alt="ATOUIYakoub's GitLab" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/abderahmanatoui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Abderahman Atoui's Kaggle" height="30" width="40" /></a>
