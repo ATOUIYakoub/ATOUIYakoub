@@ -22,7 +22,7 @@ def introduce_yourself(request):
 - 📫 How to reach me **atouiyakoub4@gmail.com**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATOUIYakoub&layout=compact&count_private=true&theme=dark&hide=c%2b%2b,Cmake,ShaderLab,Makefile,Mathematica,HLSL,rOFF,SWIFT,Unity3D%20Asset&langs_count=10" alt="ATOUIYakoub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ATOUIYakoub&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" alt="ATOUIYakoub" /></p>
+
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=ATOUIYakoub&theme=highcontrast" alt="ATOUIYakoub" /></p>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ATOUIYakoub&label=Profile%20views&color=0e75b6&style=flat" alt="ATOUIYakoub" /> </p>
