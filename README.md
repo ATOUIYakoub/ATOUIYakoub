@@ -49,8 +49,6 @@ def introduce_yourself(request):
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
 </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/> </a>
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/600px-Kaggle_logo.png" alt="Kaggle" width="40" height="40"/> </a>
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>
   <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
