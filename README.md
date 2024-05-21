@@ -46,6 +46,9 @@ def introduce_yourself(request):
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> 
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=django" alt="django rest framework" width="40" height="40"/>
+</a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
 </a>
