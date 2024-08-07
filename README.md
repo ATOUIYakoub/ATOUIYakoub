@@ -50,6 +50,8 @@ def introduce_yourself(request):
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
 </a>
+ <a href="https://riverbankcomputing.com/software/pyqt/intro" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qt.svg" alt="PyQt" width="40" height="40"/></a>
+ <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/electron.svg" alt="Electron" width="40" height="40"/></a>
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>
   <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
