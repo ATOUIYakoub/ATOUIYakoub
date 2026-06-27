@@ -86,17 +86,6 @@ class AbderahmanYakoubAtoui:
 
 ---
 
-## 🏆 Achievements
-
-| 🥇 | Achievement |
-|----|-------------|
-| 🎓 | **State Engineer & Academic Master's** in AI & Data Science — ESTIN |
-| 🤝 | **Research Collaboration** with the University of Sharjah, UAE |
-| 🏆 | **3rd Place** at **TrainIT Datathon 2024** |
-| 📄 | Research paper submitted to **IEEE EDiS 2026** |
-| 💻 | Multiple AI & optimization projects published on GitHub |
-
----
 
 ## 📈 GitHub Stats
 
