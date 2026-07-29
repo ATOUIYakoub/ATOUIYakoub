@@ -43,9 +43,6 @@ class AbderahmanYakoubAtoui:
 
 - 🎓 **State Engineer & Academic Master's** in AI & Data Science from **ESTIN**
 - 🤖 Passionate about building end-to-end ML systems — from research to production
-- 🔬 Research collaborator with the **University of Sharjah (UAE)**
-- 📄 Co-author of a paper submitted to **IEEE EDiS 2026**
-- 🏆 **3rd Place** at **TrainIT Datathon 2024**
 - 🌍 Open to research collaborations, open-source contributions & freelance projects
 
 ---
