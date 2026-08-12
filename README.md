@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Abderahman Yakoub ATOUI</h1>
 <h3 align="center">AI & Data Science Engineer • Machine Learning Engineer • Software Developer</h3>
 
@@ -98,7 +100,7 @@ class AbderahmanYakoubAtoui:
 
 ## 🌍 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:a_atoui@estin.dz"><img src="https://skillicons.dev/icons?i=gmail" title="ESTIN Email" /></a>
   <a href="mailto:atouiyakoub4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" title="Gmail" /></a>
   <a href="https://www.linkedin.com/in/abderahman-yakoub-atoui-142517230"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
